@@ -1,0 +1,62 @@
+ {
+     "details":{
+     "image":"image.png",
+     "name":"vanaja",
+     "phoneno":"+91-9312332545",
+     "email":"vanaja0602@gmail.com",
+     "address":"vignan's nirula college,guntur"
+	},
+	"career":{
+		"info":"To pursue a challenging career."
+	},
+	"education":[{
+		"qualification":"b.tech",
+		"Institute":"vignan's nirula college",
+		"year":"2016-2020",
+		"percentage":"70%"
+	},
+	{
+		"qualification":"inter",
+		"Institute":"sri chaitanya college",
+		"year":"2014-2016",
+		"percentage":"81%"
+	},
+	{
+		"qualification":"SSC",
+		"Institute":"naveena english medium school",
+		"year":"2014",
+		"percentage":"93%"
+	}
+],
+	"skills":[{
+		"title":"programming language",
+		"info":["c","c++","java","python","ruby"]
+	},
+	{
+		"title":"databases",
+		"info":["oracle","sql","my sql"]
+	},
+	{
+		"title":"operating system",
+		"info":["windows","linux","mac","ubuntc"]
+	}	
+	
+	],
+	"achievements":[{
+		"info":"got several prizes in coding test"
+		
+	},
+	{
+		"info":"did several projects on language."
+
+	}
+	]
+}
+		
+		
+	
+	
+		
+	
+
+	
